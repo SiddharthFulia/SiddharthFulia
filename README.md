@@ -1,3 +1,4 @@
+[![MasterHead](https://previews.123rf.com/images/varijanta/varijanta1601/varijanta160100028/51306187-thin-line-flat-design-banner-of-website-design-development-modern-vector-illustration-concept-of-wor.jpg)](https://siddharthfulia.io)
 <h1 align="center">Hi 👋, I'm Siddharth Fulia</h1>
 <h3 align="center">Fullstack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
