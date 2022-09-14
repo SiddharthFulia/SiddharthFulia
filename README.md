@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthfulia&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthfulia" /> </p>
 
-- 🔭 I’m currently working on **MERN stack**
+- 🔭 I’m currently working on **AIML**
 
-- 🌱 I’m currently learning **Nodejs,Solidity**
+- 🌱 I’m currently learning **Nodejs,Solidity,ML**
 
 - 🤝 I’m looking for help with **Blockchain Development,Unity game Development**
 
