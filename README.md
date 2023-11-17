@@ -1,4 +1,4 @@
-[![MasterHead](https://www.invoxico.com/wp-content/uploads/2021/03/web-development-banner.jpg)](https://siddharthfulia.io)
+[![MasterHead](https://png.pngtree.com/background/20230621/original/pngtree-innovative-3d-chess-banner-for-business-leaders-picture-image_3894423.jpg)](https://siddharthfulia.io)
 <h1 align="center">Hi 👋, I'm Siddharth Fulia</h1>
 <h3 align="center">Fullstack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
