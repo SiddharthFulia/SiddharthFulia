@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React,Competitive coding etc**
 
-- 📫 How to reach me **siddharthfulia18092002@gmail.com**
+- 📫 How to reach me **siddharthfulia7@gmail.com**
 
 - ⚡ Fun fact **I like playing chess**
 
