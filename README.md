@@ -186,7 +186,8 @@
 |----------|--------------|---------|
 | **CodeChef** | ⭐⭐⭐⭐⭐ **2114** rating, Global Rank **#23** | [fulia](https://www.codechef.com/users/fulia) |
 | **Codeforces** | Specialist | [fulia6464](https://codeforces.com/profile/fulia6464) |
-| **Meta Hacker Cup** | Rank **186** (2025), Rank **1361** (2023) | [Certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/5471687682871051) |
+| **Meta Hacker Cup 2025** | Rank **186** (Round 3), two-time shirt recipient | [Certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/5471687682871051?source=facebook) |
+| **Meta Hacker Cup 2023** | Rank **1361** | [Certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/5471687682871051) |
 
 </div>
 
