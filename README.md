@@ -2,6 +2,12 @@
 
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Founding+Engineer+%40+Passionfruit+(NY);ML+Researcher+%40+IIT+Patna;CodeChef+5-Star+%7C+Rating+2114;Meta+Hacker+Cup+2025+%7C+Rank+186;Building+AI-powered+products;3+Research+Publications)
+
+</div>
+
+<div align="center">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-siddharthfulia.com-00c6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siddharthfulia.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddharth%20Fulia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-fulia/)
 [![Email](https://img.shields.io/badge/Email-siddharthfulia7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthfulia7@gmail.com)
@@ -159,6 +165,11 @@
 ### Contribution Heatmap
 <div align="center">
 <img src="https://ghchart.rshah.org/22d3ee/Sid-passion" alt="Sid-passion's GitHub Contribution Chart" width="95%" />
+</div>
+
+### Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sid-passion&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
 </div>
 
 <div align="center">
