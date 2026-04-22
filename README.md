@@ -158,7 +158,37 @@
 
 <div align="center">
 
-`12 Private Repos` · `102 Followers` · `100 Following` · `2,974 Contributions (Last Year)` · `Active Daily`
+`12 Private Repos` · `102 Followers` · `100 Following` · `3,500+ Contributions (2025)` · `78% Commits` · `22% PRs` · `Active Daily`
+
+### Achievements
+<div align="center">
+
+![Pull Shark x3](https://img.shields.io/badge/Pull%20Shark-x3-22c55e?style=for-the-badge&logo=github&logoColor=white)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-Unlocked-f97316?style=for-the-badge&logo=github&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Unlocked-a855f7?style=for-the-badge&logo=github&logoColor=white)
+
+`128+ PRs Merged` · `Issues Closed in <5min` · `Fast Merges`
+
+</div>
+
+</div>
+
+### Monthly Activity (Private Repos)
+
+<div align="center">
+
+| Month | Contributions |
+|-------|:---:|
+| **Aug 2025** | 281 |
+| **Feb 2026** | 272 |
+| **Dec 2025** | 267 |
+| **Nov 2025** | 260 |
+| **Oct 2025** | 245 |
+| **Sep 2025** | 204 |
+| **Jan 2026** | 118 |
+| **Dec 2024** | 115 |
+| **Mar 2026** | 73 |
+| **Apr 2026** | 58 (ongoing) |
 
 </div>
 
