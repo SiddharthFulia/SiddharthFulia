@@ -158,7 +158,7 @@
 
 <div align="center">
 
-`12 Private Repos` · `102 Followers` · `100 Following` · `Active Daily Contributor`
+`12 Private Repos` · `102 Followers` · `100 Following` · `2,974 Contributions (Last Year)` · `Active Daily`
 
 </div>
 
@@ -169,22 +169,22 @@
 
 ### Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sid-passion&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=SiddharthFulia&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sid-passion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-passion&theme=tokyonight&hide_border=true&background=0D1117&ring=22c55e&fire=f97316&currStreakLabel=22c55e" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SiddharthFulia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthFulia&theme=tokyonight&hide_border=true&background=0D1117&ring=22c55e&fire=f97316&currStreakLabel=22c55e" width="49%" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-passion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9&layout=compact&langs_count=10&count_private=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiddharthFulia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9&layout=compact&langs_count=10&count_private=true" width="40%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sid-passion&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=f97316" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddharthFulia&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=f97316" width="95%" />
 </div>
 
 ---
