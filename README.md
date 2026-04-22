@@ -1,14 +1,14 @@
-[![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Siddharth%20Fulia&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Founding%20Engineer%20%7C%20ML%20Researcher%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)](https://siddharthfulia.com)
+[![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,27,2&height=280&section=header&text=Siddharth%20Fulia&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Founding%20Engineer%20%7C%20ML%20Researcher%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)](https://siddharthfulia.com)
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Founding+Engineer+%40+Passionfruit+(NY);ML+Researcher+%40+IIT+Patna;CodeChef+5-Star+%7C+Rating+2114;Meta+Hacker+Cup+2025+%7C+Rank+186;Building+AI-powered+products;3+Research+Publications)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Founding+Engineer+%40+Passionfruit+(NY);ML+Researcher+%40+IIT+Patna;CodeChef+5-Star+%7C+Rating+2114;Meta+Hacker+Cup+2025+%7C+Rank+186;Building+AI-powered+products;3+Research+Publications)
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-siddharthfulia.com-00c6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siddharthfulia.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-siddharthfulia.com-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siddharthfulia.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddharth%20Fulia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-fulia/)
 [![Email](https://img.shields.io/badge/Email-siddharthfulia7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthfulia7@gmail.com)
 [![Phone](https://img.shields.io/badge/+91%208104031595-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918104031595)
@@ -164,7 +164,7 @@
 
 ### Contribution Heatmap
 <div align="center">
-<img src="https://ghchart.rshah.org/22d3ee/Sid-passion" alt="Sid-passion's GitHub Contribution Chart" width="95%" />
+<img src="https://ghchart.rshah.org/22c55e/Sid-passion" alt="Sid-passion's GitHub Contribution Chart" width="95%" />
 </div>
 
 ### Trophies
@@ -174,17 +174,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sid-passion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-passion&theme=tokyonight&hide_border=true&background=0D1117&ring=22d3ee&fire=f97316&currStreakLabel=22d3ee" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sid-passion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-passion&theme=tokyonight&hide_border=true&background=0D1117&ring=22c55e&fire=f97316&currStreakLabel=22c55e" width="49%" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-passion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&text_color=c9d1d9&layout=compact&langs_count=10&count_private=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-passion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9&layout=compact&langs_count=10&count_private=true" width="40%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sid-passion&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22d3ee&line=22d3ee&point=f97316" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sid-passion&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=f97316" width="95%" />
 </div>
 
 ---
@@ -208,7 +208,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/siddharthfulia.com-000?style=for-the-badge&logo=google-chrome&logoColor=22d3ee)](https://siddharthfulia.com)
+[![Portfolio](https://img.shields.io/badge/siddharthfulia.com-000?style=for-the-badge&logo=google-chrome&logoColor=22c55e)](https://siddharthfulia.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-fulia/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddharthFulia)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/fulia)
@@ -222,5 +222,5 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,27,2&height=100&section=footer" width="100%" />
 </div>
