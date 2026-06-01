@@ -29,10 +29,11 @@
 
 **ML Research Intern** at [IIT Patna](https://www.iitp.ac.in/) — graph neural networks for blockchain phishing detection.
 
-- B.Tech Computer Engineering & **Honors in Intelligent Computing**, [DJS College](https://www.djsce.ac.in/) (CGPA **9.1**)
-- 3 research publications (IEEE Xplore, International Conferences)
-- Meta Hacker Cup 2025 — [**Global Rank 186 (Round 3)**](https://www.linkedin.com/posts/siddharth-fulia_metahackercup2025-top200-round3-activity-7432281275920728066-5b8P), two-time commemorative shirt recipient
-- CodeChef **5-Star** (2114 rating) | [Global Rank **#23** in Starters](https://www.linkedin.com/posts/siddharth-fulia_back-in-the-arena-my-competitive-coding-activity-7339460576152039425-t4eR)
+- 🏆 **Meta Hacker Cup 2025 — [Global Rank 186 (Round 3)](https://www.linkedin.com/posts/siddharth-fulia_metahackercup2025-top200-round3-activity-7432281275920728066-5b8P)**, two-time commemorative shirt recipient
+- ⭐ CodeChef **5-Star** (2114 rating) | [Global Rank **#23** in Starters](https://www.linkedin.com/posts/siddharth-fulia_back-in-the-arena-my-competitive-coding-activity-7339460576152039425-t4eR)
+- 🎓 B.Tech Computer Engineering & **Honors in Intelligent Computing**, [DJS College](https://www.djsce.ac.in/) (CGPA **9.1**)
+- 📄 3 research publications (IEEE Xplore + International Conferences)
+- 🚧 **Currently shipping** — Room Designer V2.1 (LTX-Video render queue + GPU worker) · 22 new open-source libraries (AI · Video · 3D · Frontend)
 
 ---
 
@@ -208,6 +209,8 @@
 <div align="center">
 
 `12 Private Repos` · `102 Followers` · `100 Following` · `3,500+ Contributions (2025)` · `78% Commits` · `22% PRs` · `Active Daily`
+
+`22 Public Libraries (MIT)` · `500+ Distributed Commits` · `AI · Video · 3D · Frontend stack`
 
 ### Achievements
 <div align="center">
