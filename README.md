@@ -10,8 +10,11 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-siddharthfulia.com-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siddharthfulia.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddharth%20Fulia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-fulia/)
+[![GitHub](https://img.shields.io/badge/GitHub-SiddharthFulia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddharthFulia)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5--Star%20(2114)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/fulia)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/fulia6464)
 [![Email](https://img.shields.io/badge/Email-siddharthfulia7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthfulia7@gmail.com)
-[![Phone](https://img.shields.io/badge/+91%208104031595-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918104031595)
+[![WhatsApp](https://img.shields.io/badge/+91%208104031595-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918104031595)
 [![Profile Views](https://komarev.com/ghpvc/?username=siddharthfulia&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/SiddharthFulia)
 
 </div>
@@ -81,13 +84,59 @@
 | Project | Description | Links |
 |---------|-------------|-------|
 | **Passionfruit Platform** | Full-stack SaaS — 100+ APIs, GA4 across 200+ sites, RabbitMQ 10K+ jobs/day | [Company](https://www.linkedin.com/company/getpassionfruit/) |
-| **3D Portfolio** | React + Three.js + 30+ interactive demos, AI Vision Suite, Space Science Explorer | [Live](https://siddharthfulia.com) |
+| **3D Portfolio** | React + Three.js + 50+ demos across Lab, Creative, Science (11 NASA modules), Explore (9 API modules), Vision AI, Realism Lab, AI Chat (Groq + Ollama), Chess Engine Viz | [Live](https://siddharthfulia.com) |
 | **GrabPhisher** | Ethereum phishing detection — EvolveGCN + Node2vec, 93% accuracy | [GitHub](https://github.com/SiddharthFulia) |
 | **Chess Engine** | C engine with alpha-beta pruning, iterative deepening, quiescence search, MVV-LVA | [GitHub](https://github.com/SiddharthFulia/Chess-engine) |
 | **LTTS Knowledge Graph** | Automated KG extraction from documents — Top 3 at TECHgium 2022 | [Certificate](https://drive.google.com/file/d/1C-4jtHmv-bGxPHo-0KYpnc8rdv1_Bc2C/view?usp=sharing) |
 | **CrickSpeakAI** | ShotSense CNN + CatchVision LSTM + YOLO v8 + LLM real-time commentary | Research |
 | **Quantum Cryptography** | Proprietary algorithm outperforming AES, quantum-resistant, 100MB+ file support | Research |
 | **IoT Soil Testing** | Arduino + ML crop recommendation — 50% efficiency, 30% productivity boost | [IEEE Paper](https://ieeexplore.ieee.org/document/10307726) |
+
+### Open Source Libraries (Public — 2026)
+
+> 22 standalone libraries spanning AI/ML, video pipelines, 3D, and frontend infra. All MIT.
+
+**AI · ML · RAG**
+
+| Repo | Stack | What it does |
+|------|-------|--------------|
+| [realism-prompt-engine](https://github.com/SiddharthFulia/realism-prompt-engine) | Python · Groq | Cinematic prompt enrichment with preset libraries (lenses, lighting, grain) |
+| [groq-llm-router](https://github.com/SiddharthFulia/groq-llm-router) | TypeScript | Kind→model routing + 429/503 fallback + SSE streaming |
+| [rag-cinematic](https://github.com/SiddharthFulia/rag-cinematic) | Python · Chroma | RAG over film scripts — fountain / fdx / pdf, scene-aware chunking |
+| [rag-codebase-search](https://github.com/SiddharthFulia/rag-codebase-search) | Python · FAISS · tree-sitter | AST-aware RAG over codebases with MMR diversification |
+| [prompt-arena](https://github.com/SiddharthFulia/prompt-arena) | Python | Variant A/B testing with ELO + sharpness + motion scoring |
+| [face-consistency-toolkit](https://github.com/SiddharthFulia/face-consistency-toolkit) | Python · ArcFace | Face identity scoring + PuLID / IPAdapter / InstantID conditioners |
+| [comfyui-job-queue](https://github.com/SiddharthFulia/comfyui-job-queue) | Python · RabbitMQ | Multi-lane GPU job queue for ComfyUI with idle watchdog |
+| [wan-i2v-cli](https://github.com/SiddharthFulia/wan-i2v-cli) | Python | Wan 2.1 / 2.2 image-to-video batch CLI via ComfyUI |
+| [comfy-workflow-builder](https://github.com/SiddharthFulia/comfy-workflow-builder) | Python | Fluent Python builder for ComfyUI workflow JSON |
+
+**Video · FFmpeg**
+
+| Repo | Stack | What it does |
+|------|-------|--------------|
+| [ffmpeg-edit-server](https://github.com/SiddharthFulia/ffmpeg-edit-server) | Express · ffmpeg | Multi-clip render server with EditSpec, ducking, posters |
+| [video-poster-frames](https://github.com/SiddharthFulia/video-poster-frames) | TypeScript · ffmpeg | Poster / thumbnail / grid / scene-change extraction |
+| [scene-cut-detector](https://github.com/SiddharthFulia/scene-cut-detector) | Python · OpenCV | Multi-signal scene cuts — HSV histogram + flow + audio |
+| [vfx-grain-lavfi](https://github.com/SiddharthFulia/vfx-grain-lavfi) | Bash · ffmpeg | Super 8 / Super 16 / Vision3 grain + halation chains |
+| [kinetic-text-ffmpeg](https://github.com/SiddharthFulia/kinetic-text-ffmpeg) | TypeScript · ffmpeg | Kinetic typography overlays via drawtext with beat sync |
+| [webcodecs-mp4-stitcher](https://github.com/SiddharthFulia/webcodecs-mp4-stitcher) | TypeScript · WebCodecs | Pure-browser MP4 stitcher (no server) |
+| [rife-frame-bridge](https://github.com/SiddharthFulia/rife-frame-bridge) | Python · PyTorch | RIFE frame interpolation wrapper (24 → 60 fps) |
+
+**3D · Gaussian Splat · WebGL**
+
+| Repo | Stack | What it does |
+|------|-------|--------------|
+| [handflow-3d](https://github.com/SiddharthFulia/handflow-3d) | Three.js · MediaPipe | Hand-gesture controlled 3D endless runner |
+| [gaussian-splat-cache](https://github.com/SiddharthFulia/gaussian-splat-cache) | TypeScript · Express | Range-streaming disk cache for `.ply` / `.splat` / `.ksplat` |
+| [splat-trimmer](https://github.com/SiddharthFulia/splat-trimmer) | Python · NumPy | AABB / sphere / oriented-bbox trim for Gaussian splat clouds |
+
+**Frontend Infra**
+
+| Repo | Stack | What it does |
+|------|-------|--------------|
+| [scroll-cinematic-hero](https://github.com/SiddharthFulia/scroll-cinematic-hero) | React · Vite | WebP-frame scroll-driven hero with tiered render modes |
+| [vault-context-react](https://github.com/SiddharthFulia/vault-context-react) | React | Auth context with cross-tab sync + 401-retry fetch wrapper |
+| [gsap-chapter-reel](https://github.com/SiddharthFulia/gsap-chapter-reel) | React · GSAP | ScrollTrigger chapter system with pin + scrub orb |
 
 ---
 
@@ -184,22 +233,13 @@
 | **Dec 2025** | 267 |
 | **Nov 2025** | 260 |
 | **Oct 2025** | 245 |
+| **Apr 2026** | 213 |
+| **May 2026** | 207 |
 | **Sep 2025** | 204 |
 | **Jan 2026** | 118 |
 | **Dec 2024** | 115 |
 | **Mar 2026** | 73 |
-| **Apr 2026** | 58 (ongoing) |
 
-</div>
-
-### Contribution Heatmap
-<div align="center">
-<img src="https://ghchart.rshah.org/22c55e/Sid-passion" alt="Sid-passion's GitHub Contribution Chart" width="95%" />
-</div>
-
-### Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SiddharthFulia&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
 </div>
 
 <div align="center">
@@ -207,14 +247,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SiddharthFulia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthFulia&theme=tokyonight&hide_border=true&background=0D1117&ring=22c55e&fire=f97316&currStreakLabel=22c55e" width="49%" />
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiddharthFulia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9&layout=compact&langs_count=10&count_private=true" width="40%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddharthFulia&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=f97316" width="95%" />
 </div>
 
 ---
@@ -231,25 +263,6 @@
 | **Meta Hacker Cup 2023** | Rank **1361** | [Certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/5471687682871051) |
 
 </div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/siddharthfulia.com-000?style=for-the-badge&logo=google-chrome&logoColor=22c55e)](https://siddharthfulia.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-fulia/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddharthFulia)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/fulia)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/fulia6464)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthfulia7@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/+91%208104031595-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918104031595)
-
-</div>
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,27,2&height=100&section=footer" width="100%" />
