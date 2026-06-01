@@ -231,25 +231,24 @@
 
 | Month | Contributions |
 |-------|:---:|
-| **Aug 2025** | 281 |
-| **Feb 2026** | 272 |
-| **Dec 2025** | 267 |
-| **Nov 2025** | 260 |
-| **Oct 2025** | 245 |
-| **Apr 2026** | 213 |
-| **May 2026** | 207 |
-| **Sep 2025** | 204 |
-| **Jan 2026** | 118 |
 | **Dec 2024** | 115 |
-| **Mar 2026** | 73 |
+| **Aug 2025** | 281 |
+| **Sep 2025** | 204 |
+| **Oct 2025** | 245 |
+| **Nov 2025** | 260 |
+| **Dec 2025** | 267 |
+| **Jan 2026** | 118 |
+| **Feb 2026** | 272 |
+| **Mar 2026** | 173 |
+| **Apr 2026** | 290 |
+| **May 2026** | 312 |
 
 </div>
 
+### Contribution Heatmap
+
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SiddharthFulia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthFulia&theme=tokyonight&hide_border=true&background=0D1117&ring=22c55e&fire=f97316&currStreakLabel=22c55e" width="49%" />
-
+<img src="https://ghchart.rshah.org/22c55e/Sid-passion" alt="Sid-passion's GitHub Contribution Chart" width="95%" />
 </div>
 
 ---
