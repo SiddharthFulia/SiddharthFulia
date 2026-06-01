@@ -33,6 +33,7 @@
 - ⭐ CodeChef **5-Star** (2114 rating) | [Global Rank **#23** in Starters](https://www.linkedin.com/posts/siddharth-fulia_back-in-the-arena-my-competitive-coding-activity-7339460576152039425-t4eR)
 - 🎓 B.Tech Computer Engineering & **Honors in Intelligent Computing**, [DJS College](https://www.djsce.ac.in/) (CGPA **9.1**)
 - 📄 3 research publications (IEEE Xplore + International Conferences)
+- 🚀 Building **GetOz** at [Passionfruit](https://www.linkedin.com/company/getpassionfruit/)
 - 🚧 **Currently shipping** — Room Designer V2.1 (LTX-Video render queue + GPU worker) · 22 new open-source libraries (AI · Video · 3D · Frontend)
 
 ---
