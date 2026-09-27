@@ -197,13 +197,20 @@ def build_svg(items: list[tuple[str, int]]) -> str:
             f'<line x1="{cx:.1f}" y1="{cy:.1f}" x2="{x2:.1f}" y2="{y2:.1f}" stroke="rgba(255,255,255,0.08)" stroke-width="1" />'
         )
 
-    # Data polygon — scale each vertex by its percentage / max-pct
+    # Data polygon — scale each vertex by its percentage / max-pct with a
+    # display exponent so smaller-share languages still read as a meaningful
+    # vertex on the radar (a 5% value at exp=0.55 gets 24% radius instead of
+    # 5%, keeping the polygon visually full even for niche languages).
     max_pct = max(pct for _, _, pct in entries) or 1
+    RADIUS_EXP = 0.55  # 1.0 = raw proportional; 0 = all languages at max radius
+    MIN_RADIUS_PCT = 0.30  # floor so tiny values still show a visible node
     data_pts = []
     vertex_dots = []
     for i, (_, _, pct) in enumerate(entries):
         a = angle(i)
-        r = R * (pct / max_pct)
+        ratio = (pct / max_pct) ** RADIUS_EXP
+        ratio = max(MIN_RADIUS_PCT, ratio)  # floor prevents 0-collapse
+        r = R * ratio
         x = cx + r * math.cos(a)
         y = cy + r * math.sin(a)
         data_pts.append(f"{x:.1f},{y:.1f}")
