@@ -1,7 +1,17 @@
 {
-  "type": "default",
-  "options": [
-    { "type": "green" },
-    { "type": "green-dark", "backgroundColor": "#0a0a0e" }
+  "type": "normal",
+  "fileName": "profile-green-dark.svg",
+  "backgroundColor": "#0a0a0e",
+  "foregroundColor": "#eeeeff",
+  "strongColor": "rgb(255,200,55)",
+  "weakColor": "#aaaaaa",
+  "radarColor": "#22c55e",
+  "growingAnimation": true,
+  "contribColors": [
+    "#161b22",
+    "#0e4429",
+    "#006d32",
+    "#26a641",
+    "#39d353"
   ]
 }

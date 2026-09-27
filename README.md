@@ -81,6 +81,18 @@
 
 ---
 
+<!-- START_SECTION:3d-contrib -->
+## 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-dark.svg" alt="3D contribution calendar" width="100%">
+</p>
+
+<sub>Auto-generated daily via <a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111/github-profile-3d-contrib</a>. Isometric grid, emerald cubes rise per commit day. Side panel shows longest streak, highest commits/day, average per day, and total contributions.</sub>
+<!-- END_SECTION:3d-contrib -->
+
+---
+
 ## Projects
 
 | Project | Description | Links |
