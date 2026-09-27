@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" width="720" height="720" role="img" aria-label="Skill radar chart of language usage across all repos">
   <rect x="0" y="0" width="720" height="720" fill="#0a0a0e" />
-  <text x="360" y="46" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#22c55e" font-weight="700">~/ skill radar</text><text x="360" y="70" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="rgba(229,229,229,0.55)">language mix across all my repos</text>
+  <text x="360" y="46" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#22c55e" font-weight="700">skill radar</text><text x="360" y="70" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="rgba(229,229,229,0.55)">language mix across all my repos</text>
   <g>
     <polygon points="360.0,315.0 395.4,327.9 414.2,360.4 407.6,397.5 378.8,421.7 341.2,421.7 312.4,397.5 305.8,360.4 324.6,327.9" fill="none" stroke="rgba(255,255,255,0.10)" stroke-width="1" stroke-dasharray="3 3" />
 <polygon points="360.0,260.0 430.7,285.7 468.3,350.9 455.3,425.0 397.6,473.4 322.4,473.4 264.7,425.0 251.7,350.9 289.3,285.7" fill="none" stroke="rgba(255,255,255,0.10)" stroke-width="1" stroke-dasharray="3 3" />
@@ -16,25 +16,25 @@
 <line x1="360.0" y1="370.0" x2="143.3" y2="331.8" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
 <line x1="360.0" y1="370.0" x2="218.6" y2="201.5" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
   </g>
-  <polygon points="360.0,150.0 360.0,370.0 374.7,367.4 360.1,370.1 363.8,380.3 359.7,370.9 353.3,373.9 358.7,369.8 358.6,368.3" fill="rgba(34,197,94,0.25)" stroke="#22c55e" stroke-width="2" stroke-linejoin="round" />
+  <polygon points="360.0,150.0 361.2,368.6 445.4,354.9 361.8,371.1 382.4,431.5 355.1,383.5 308.5,399.7 339.2,366.3 346.3,353.6" fill="rgba(34,197,94,0.25)" stroke="#22c55e" stroke-width="2" stroke-linejoin="round" />
   <circle cx="360.0" cy="150.0" r="3.5" fill="#22c55e" />
-<circle cx="360.0" cy="370.0" r="3.5" fill="#22c55e" />
-<circle cx="374.7" cy="367.4" r="3.5" fill="#22c55e" />
-<circle cx="360.1" cy="370.1" r="3.5" fill="#22c55e" />
-<circle cx="363.8" cy="380.3" r="3.5" fill="#22c55e" />
-<circle cx="359.7" cy="370.9" r="3.5" fill="#22c55e" />
-<circle cx="353.3" cy="373.9" r="3.5" fill="#22c55e" />
-<circle cx="358.7" cy="369.8" r="3.5" fill="#22c55e" />
-<circle cx="358.6" cy="368.3" r="3.5" fill="#22c55e" />
+<circle cx="361.2" cy="368.6" r="3.5" fill="#22c55e" />
+<circle cx="445.4" cy="354.9" r="3.5" fill="#22c55e" />
+<circle cx="361.8" cy="371.1" r="3.5" fill="#22c55e" />
+<circle cx="382.4" cy="431.5" r="3.5" fill="#22c55e" />
+<circle cx="355.1" cy="383.5" r="3.5" fill="#22c55e" />
+<circle cx="308.5" cy="399.7" r="3.5" fill="#22c55e" />
+<circle cx="339.2" cy="366.3" r="3.5" fill="#22c55e" />
+<circle cx="346.3" cy="353.6" r="3.5" fill="#22c55e" />
   <g>
-    <text x="360.0" y="116.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="-8">JavaScript</text><text x="360.0" y="116.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="8">85.2%</text>
-<text x="523.3" y="175.4" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="0">Kotlin</text><text x="523.3" y="175.4" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="16">0.0%</text>
-<text x="610.1" y="325.9" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="0">Python</text><text x="610.1" y="325.9" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="16">5.8%</text>
-<text x="580.0" y="497.0" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="0">Solidity</text><text x="580.0" y="497.0" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="16">0.0%</text>
-<text x="446.9" y="608.7" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="6">TypeScript</text><text x="446.9" y="608.7" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="22">4.2%</text>
-<text x="273.1" y="608.7" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="6">HTML</text><text x="273.1" y="608.7" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="22">0.4%</text>
-<text x="140.0" y="497.0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="0">Dart</text><text x="140.0" y="497.0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="16">3.0%</text>
-<text x="109.9" y="325.9" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="0">CSS</text><text x="109.9" y="325.9" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="16">0.5%</text>
-<text x="196.7" y="175.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="0">C++</text><text x="196.7" y="175.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="16">0.9%</text>
+    <text x="360.0" y="116.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="-8">JavaScript</text><text x="360.0" y="116.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="8">44.7%</text>
+<text x="523.3" y="175.4" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="0">Solidity</text><text x="523.3" y="175.4" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="16">0.4%</text>
+<text x="610.1" y="325.9" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="0">Python</text><text x="610.1" y="325.9" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="16">17.6%</text>
+<text x="580.0" y="497.0" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="0">C</text><text x="580.0" y="497.0" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="16">0.4%</text>
+<text x="446.9" y="608.7" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="6">TypeScript</text><text x="446.9" y="608.7" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="22">13.3%</text>
+<text x="273.1" y="608.7" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="6">CSS</text><text x="273.1" y="608.7" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="22">2.9%</text>
+<text x="140.0" y="497.0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="0">Dart</text><text x="140.0" y="497.0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="16">12.1%</text>
+<text x="109.9" y="325.9" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="0">C++</text><text x="109.9" y="325.9" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="16">4.3%</text>
+<text x="196.7" y="175.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5e5e5" dy="0">HTML</text><text x="196.7" y="175.4" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#22c55e" dy="16">4.3%</text>
   </g>
 </svg>

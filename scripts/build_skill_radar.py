@@ -23,14 +23,15 @@ import urllib.request
 
 GRAPHQL_URL = "https://api.github.com/graphql"
 
-# Languages we never want on the radar (build files, docs, config noise)
+# Languages we never want on the radar (build files, docs, config noise,
+# or notebook JSON that inflates byte counts artificially).
 EXCLUDE = {
     "Dockerfile",
     "Shell",
     "Batchfile",
     "Makefile",
     "CMake",
-    "Jupyter Notebook",
+    "Jupyter Notebook",   # notebook JSON bloats — misrepresents actual code volume
     "Text",
     "Roff",
     "M4",
@@ -44,13 +45,21 @@ EXCLUDE = {
     "PowerShell",
     "Rich Text Format",
     "TeX",
+    "MDX",
+    "Astro",
+    "SCSS",
+    "Less",
+    "PostCSS",
 }
 
-# If a language shows up but has fewer bytes than this AND is in EXCLUDE, drop it.
-# (Languages not in EXCLUDE are kept regardless of size, though top-N still filters.)
-MIN_BYTES_FOR_EXCLUDED = 200_000
-
 TOP_N = 9  # matches the reference radar density
+
+# Per-repo bytes get sqrt-normalised before summing so a single huge repo
+# (e.g. a portfolio with megabytes of bundled JS) can't drown out breadth
+# across many repos. Result: mix reads as "breadth of use", not "size of
+# biggest project".
+def normalise_bytes(size: int) -> float:
+    return math.sqrt(max(0, size))
 
 QUERY = """
 query($login: String!, $after: String) {
@@ -95,8 +104,12 @@ def gh_graphql(token: str, query: str, variables: dict) -> dict:
         return json.loads(resp.read().decode("utf-8"))
 
 
-def fetch_language_bytes(token: str, login: str) -> dict[str, int]:
-    totals: dict[str, int] = {}
+def fetch_language_bytes(token: str, login: str) -> dict[str, float]:
+    """Aggregate sqrt(bytes) per repo per language. sqrt-per-repo pre-sum
+    flattens single-repo dominance (one 100 MB bundle contributes 10× a
+    1 MB script, not 100×) so the radar reflects breadth-of-use across
+    the portfolio rather than the size of the biggest single project."""
+    totals: dict[str, float] = {}
     cursor = None
     while True:
         payload = gh_graphql(token, QUERY, {"login": login, "after": cursor})
@@ -112,7 +125,7 @@ def fetch_language_bytes(token: str, login: str) -> dict[str, int]:
         for node in repos["nodes"]:
             for edge in node["languages"]["edges"]:
                 name = edge["node"]["name"]
-                totals[name] = totals.get(name, 0) + edge["size"]
+                totals[name] = totals.get(name, 0.0) + normalise_bytes(edge["size"])
         page = repos["pageInfo"]
         if not page["hasNextPage"]:
             break
@@ -120,12 +133,12 @@ def fetch_language_bytes(token: str, login: str) -> dict[str, int]:
     return totals
 
 
-def pick_languages(totals: dict[str, int], top_n: int = TOP_N) -> list[tuple[str, int]]:
-    filtered: list[tuple[str, int]] = []
-    for name, size in totals.items():
-        if name in EXCLUDE and size < MIN_BYTES_FOR_EXCLUDED:
+def pick_languages(totals: dict[str, float], top_n: int = TOP_N) -> list[tuple[str, float]]:
+    filtered: list[tuple[str, float]] = []
+    for name, weight in totals.items():
+        if name in EXCLUDE:
             continue
-        filtered.append((name, size))
+        filtered.append((name, weight))
     filtered.sort(key=lambda kv: kv[1], reverse=True)
     return filtered[:top_n]
 
@@ -247,7 +260,7 @@ def build_svg(items: list[tuple[str, int]]) -> str:
     title = (
         f'<text x="{W/2:.0f}" y="46" text-anchor="middle" '
         f'font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" '
-        f'font-size="18" fill="#22c55e" font-weight="700">~/ skill radar</text>'
+        f'font-size="18" fill="#22c55e" font-weight="700">skill radar</text>'
         f'<text x="{W/2:.0f}" y="70" text-anchor="middle" '
         f'font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" '
         f'font-size="11" fill="rgba(229,229,229,0.55)">language mix across all my repos</text>'
