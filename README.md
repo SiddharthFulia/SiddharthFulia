@@ -62,7 +62,7 @@
 
 | Paper | Status | Links |
 |-------|--------|-------|
-| **Quantum-Resistant Cryptography**: Proprietary Algorithm Outperforming AES in Speed and Security | In Progress | - |
+| **Quantum-Resistant Cryptography**: Proprietary Algorithm Outperforming AES in Speed and Security | In&nbsp;Progress | - |
 | **CrickSpeakAI**: Revolutionizing Cricket Analytics — ShotSense CNN + CatchVision LSTM (92% accuracy) + YOLO v8 + LLM Commentary | Accepted | - |
 | **IoT Soil Testing** with Intelligent Crop Recommendation System — 50% efficiency boost, 30% productivity increase | Published | [IEEE Xplore](https://ieeexplore.ieee.org/document/10307726) |
 
