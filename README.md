@@ -68,6 +68,16 @@
 
 ---
 
+<!-- START_SECTION:skill-radar -->
+## Skill Radar
+
+<p align="center">
+  <img src="./assets/skill-radar.svg" alt="Skill radar — language mix across all my repos" width="620">
+</p>
+<!-- END_SECTION:skill-radar -->
+
+---
+
 ## Achievements
 
 | | Achievement | Details | Links |
