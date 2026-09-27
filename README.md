@@ -34,7 +34,7 @@
 - 🎓 B.Tech Computer Engineering & **Honors in Intelligent Computing**, [DJS College](https://www.djsce.ac.in/) (CGPA **9.1**)
 - 📄 3 research publications (IEEE Xplore + International Conferences)
 - 🚀 Building **GetOz** at [Passionfruit](https://www.linkedin.com/company/getpassionfruit/)
-- 🚧 **Currently shipping** — Room Designer V2.1 (LTX-Video render queue + GPU worker) · 22 new open-source libraries (AI · Video · 3D · Frontend)
+- 🚧 **Shipping now** — Room Designer V2.1 · LTX-Video 2B on RTX 5090 · Redis-backed render queue · SSE progress streams · Oracle ARM control plane · Three.js + WebCodecs FE · **22 open-source libs** in flight (AI inference · video pipelines · Gaussian splats · Three.js primitives · React hooks)
 
 ---
 
@@ -92,7 +92,7 @@
 ---
 
 <!-- START_SECTION:3d-contrib -->
-## ~/ commit forest
+## Contributions in 3D
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-green-dark.svg" alt="Isometric commit history" width="100%">
